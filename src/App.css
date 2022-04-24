@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  font-size: 50px;
+  background-color: yellow;
+  height: 400px;
+  width: 550px;
+  margin: 10px auto;
+  padding: 50px;
+  margin-top: 90px;
+}
+
+
+button{
+
+  font-size: 25px;
+  border: 1px solid white;
+  background-color: white;
+  color: black;
+  margin: 3px;
+  font-weight: 700;
+  padding: 20px 50px;
+}
